@@ -10,6 +10,8 @@ namespace WinFormsApp1
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Yeni bir mesaj eklendi");
+            MessageBox.Show("Yeni bir mesaj 2 eklendi");
+
         }
 
         private void button1_Click(object sender, EventArgs e)
